@@ -1,0 +1,19 @@
+{
+  "name": "example",
+  "version": "0.0.1",
+  "description": "Exemple de projet",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dellise26/exampleNode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dellise26/exampleNode/issues"
+  },
+  "homepage": "https://github.com/dellise26/exampleNode#readme"
+}
